@@ -44,12 +44,15 @@
     "@storybook/addon-knobs": "^6.3.0",
     "@storybook/addon-links": "^6.3.3",
     "@storybook/preset-scss": "^1.0.3",
+    "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "^6.3.3",
     "babel-loader": "^8.2.2",
     "css-loader": "^1.0.1",
+    "fork-ts-checker-webpack-plugin": "^4.1.6",
     "prettier": "2.2.1",
     "sass-loader": "^10.2.0",
-    "style-loader": "^0.23.1"
+    "style-loader": "^0.23.1",
+    "ts-loader": "^9.2.3"
   },
   "repository": {
     "type": "git",
